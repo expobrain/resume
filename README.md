@@ -42,18 +42,18 @@ Technologies: **_Python, Terraform, Kubernetes, GCP, Processes, System Architect
 
 ### Smart Energy Experience, Staff Engineer - from 07/2020 to 01/2022
 
-Working on making the usage of electricity smarter and and cheaper starting with EV smart charging :
+Contributed to the development of an intelligent and cost-efficient EV charging system aimed at optimizing electricity usage:
 
-- Managed the technical direction and integration with other systems inside and outside Bulb
-- Build a scalable, event driven, microservice architecture with asynchronous code
-- Tutored members of the team to help them grow
-- Working closely with Product Managers to drive the implementation of the smart energy product
+- Oversaw technical direction and facilitated integration with internal and external systems at Bulb.
+- Built a scalable, event-driven microservices architecture with asynchronous code.
+- Provided guidance and mentorship to team members to support their professional development.
+- Collaborated closely with Product Managers to execute the implementation of the smart energy product.
 
-Achievements:
+Accomplishments:
 
-- Bootstrapped the team and the project for the Smart Energy Platform
-- Promoted documentation of our systems and tools to automate diagnostic tasks
-- Pioneered the usage of modern asynchronous programming in Python
+- Initiated and built the team and project for the Smart Energy Platform from scratch
+- Instituted documentation of systems and tools to automate diagnostic tasks, streamlining processes
+- Pioneered the utilization of modern asynchronous programming in Python to enhance efficiency and productivity.
 
 Technologies: **_Python, Typescript, Kubernetes, GCP_**
 
@@ -61,17 +61,17 @@ Technologies: **_Python, Typescript, Kubernetes, GCP_**
 
 ### Data Infrastructure, Lead Engineer - from 10/2019 to 07/2020
 
-Team leader and Product Owner of the Data Infrastructure Team:
+As the Team Leader and Product Owner of the Data Infrastructure team, I spearheaded various initiatives to enhance the team's capabilities and improve its overall efficiency.
 
-- Improved documentation of the services and tool provided by the team
-- Automated most of the manual processes in the team
-- Improving security and audit capability on data lakes access
-- Supporting 170+ between Engineers and Data Scientists with our infrastructure
+- Improving documentation of the services and tools provided by the team, leading to increased clarity and understanding of our infrastructure among stakeholders.
+- Automating manual processes to streamline workflows, resulting in significant time and cost savings for the organization.
+- Enhancing security and audit capabilities on data lakes access, ensuring compliance with regulatory requirements and reducing the risk of data breaches.
+- Providing infrastructure support to over 170 Engineers and Data Scientists, enabling them to perform their roles with greater efficiency and effectiveness.
 
-Achievements:
+Accomplishments:
 
-- Successfully migrated projects to use Hashicorp Vault for secrets management
-- Promoted the creation of tool to automate internal tasks
+- Successfully migrating projects to use Hashicorp Vault for secrets management, improving security and access control for sensitive data.
+- Promoting the creation of a tool to automate internal tasks, further increasing team productivity and freeing up time for higher-value activities.
 
 Technologies: **_Python, Terraform, GCP_**
 
