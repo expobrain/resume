@@ -35,7 +35,7 @@ As a Principal Engineer:
 - Driven the design and implementation of a new money movemement feed service which slashed the response time from up top 30s to constant 250ms with higher cycle time, higher deployment rate and lower development friction
 - Deployed internal package repository, ported common internal libraries to reusabel packages and released boilerplates for fast bootstrappign of services, libraries and tools
 - Automate documentation of events published in the message broker for easy discovery from developer and automated generation of parser in downstream services reducing the time to consume events and drastically improved developer experience with automated code generation
-- Reducing costs of even ingestion from Backend to Data team by 10x improving the performances and observability of the pipeline
+- Reducing costs of event ingestion from Backend to Data team by 10x improving the performances and observability of the pipeline
 
 Technologies: **_Python, Terraform, Kubernetes, GCP, Processes, System Architecture, Mentoring_**
 
