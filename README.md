@@ -22,8 +22,8 @@ I'm passionate about technology which supports the growth of the business, makin
 
 As a Principal Engineer:
 
-- Revolutionizing code quality and developer experience through tooling, patterns, and processes
-- Facilitating collaboration between Backend, Mobile, and Data teams to streamline workflows and maximize productivity
+- Revolutionising code quality and developer experience through tooling, patterns, and processes
+- Facilitating collaboration between Backend, Mobile, and Data teams to streamline workflows and maximise productivity
 - Communicating technical milestones and progress to management to ensure seamless integration with business objectives
 - Transformed infrastructure management for Google Workspace setup and Data Team resources using Terraform, resulting in improved reproducibility, security, and cost-effectiveness
 - Reduced the cost of running Data Team's data pipeline by 15% and errors per week by migrating to DBT and introducing a new testing framework
@@ -32,8 +32,8 @@ As a Principal Engineer:
 - Boosted developer productivity and quality by decreasing bootstrap time of backend tests by 120x
 - Provided a scalable backend platform to support mobile end-to-end testing, enhancing product quality and robustness
 - Eliminated silos between backend engineering and data engineering to encourage collaboration and simplify data pipeline delivery for data-driven features.
-- Driven the design and implementation of a new money movemement feed service which slashed the response time from up top 30s to constant 250ms with higher cycle time, higher deployment rate and lower development friction
-- Deployed internal package repository, ported common internal libraries to reusabel packages and released boilerplates for fast bootstrappign of services, libraries and tools
+- Driven the design and implementation of a new money movement feed service which slashed the response time from up top 30s to constant 250ms with higher cycle time, higher deployment rate and lower development friction
+- Deployed internal package repository, ported common internal libraries to reusable packages and released boilerplates for fast bootstrapping of services, libraries and tools
 - Automate documentation of events published in the message broker for easy discovery from developer and automated generation of parser in downstream services reducing the time to consume events and drastically improved developer experience with automated code generation
 - Reducing costs of event ingestion from Backend to Data team by 10x improving the performances and observability of the pipeline
 
@@ -43,7 +43,7 @@ Technologies: **_Python, Terraform, Kubernetes, GCP, Processes, System Architect
 
 ### Smart Energy Experience, Staff Engineer - from 07/2020 to 01/2022
 
-Contributed to the development of an intelligent and cost-efficient EV charging system aimed at optimizing electricity usage:
+Contributed to the development of an intelligent and cost-efficient EV charging system aimed at optimising electricity usage:
 
 - Oversaw technical direction and facilitated integration with internal and external systems at Bulb.
 - Built a scalable, event-driven microservices architecture with asynchronous code.
@@ -54,7 +54,7 @@ Accomplishments:
 
 - Initiated and built the team and project for the Smart Energy Platform from scratch
 - Instituted documentation of systems and tools to automate diagnostic tasks, streamlining processes
-- Pioneered the utilization of modern asynchronous programming in Python to enhance efficiency and productivity.
+- Pioneered the utilisation of modern asynchronous programming in Python to enhance efficiency and productivity.
 
 Technologies: **_Python, Typescript, Kubernetes, GCP_**
 
@@ -65,7 +65,7 @@ Technologies: **_Python, Typescript, Kubernetes, GCP_**
 As the Team Leader and Product Owner of the Data Infrastructure team, I spearheaded various initiatives to enhance the team's capabilities and improve its overall efficiency.
 
 - Improving documentation of the services and tools provided by the team, leading to increased clarity and understanding of our infrastructure among stakeholders.
-- Automating manual processes to streamline workflows, resulting in significant time and cost savings for the organization.
+- Automating manual processes to streamline workflows, resulting in significant time and cost savings for the organisation.
 - Enhancing security and audit capabilities on data lakes access, ensuring compliance with regulatory requirements and reducing the risk of data breaches.
 - Providing infrastructure support to over 170 Engineers and Data Scientists, enabling them to perform their roles with greater efficiency and effectiveness.
 
