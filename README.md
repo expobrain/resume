@@ -8,7 +8,7 @@ Twitter: [@expobrain](https://twitter.com/expobrain)
 
 Github: https://github.com/expobrain
 
-Blog: https://www.expobrain.net
+Blog: https://medium.com/@daniele.esposti
 
 # Introduction
 
